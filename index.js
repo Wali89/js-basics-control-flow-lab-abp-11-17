@@ -39,7 +39,7 @@ switch (tip) {
 
         break;
       default:
-      return 'Bye'
+      return 'Bye.'
     }
 
 
