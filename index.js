@@ -1,4 +1,4 @@
 function scuberGreetingForFeet (feet) {
-  
+    
 
 }
